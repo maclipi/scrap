@@ -1,0 +1,15 @@
+{
+  "name": "scrap",
+  "version": "1.0.0",
+  "description": "Rentmojo scrapping app without any library",
+  "main": "scrap.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/maclipi"
+  },
+  "author": "Mayank Dwivedi",
+  "license": "ISC"
+}
